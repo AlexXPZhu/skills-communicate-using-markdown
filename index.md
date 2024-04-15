@@ -19,3 +19,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## 接下来测试check-list 任务列表
+### 记住要在相应的地方加上合适的空格
+### Do not forget to have spaces
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
